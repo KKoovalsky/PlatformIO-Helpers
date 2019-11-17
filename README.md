@@ -53,7 +53,6 @@ ROOT_DIR = env['PROJECT_DIR']
 
 mbedignore_path = path.join(ROOT_DIR, '.mbedignore')
 mbed_os_dir = '/home/username/.platformio/packages/framework-mbed'
-mbedignore.apply(mbedignore_path, mbed_os_dir)
 
 # Does the job related to ignoring the paths. 
 mbedignore.apply(mbedignore_path, mbed_os_dir)
