@@ -1,5 +1,7 @@
 # PlatformIO Helpers
 
+**NOTE:** See [Copper-Bot's fork](https://github.com/Copper-Bot/PlatformIO-Helpers) since it is more up-to-date.
+
 Python3 is only supported.
 
 For those helpers to work you should 
